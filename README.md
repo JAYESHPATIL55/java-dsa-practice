@@ -40,6 +40,7 @@ This repository includes:
 Each folder contains:
 - Problem statement
 - Java solution
+- Solution in java
 
 ---
 
