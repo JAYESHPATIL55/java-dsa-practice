@@ -23,7 +23,8 @@ This repository includes:
 - Arrays  
 - Strings  
 - Recursion  
-- Searching & Sorting  
+- Searching & Sorting
+- Merge Interval
 - Linked List  
 - Stack & Queue  
 - Trees  
